@@ -10,3 +10,4 @@
         ```docker-compose up -d``` 
 
 2. Если всё прошло гладко, то WEB-UI будет доступен по адресу http://localhost:15672. Login - guest, password - guest
+3. Примеры находятся в директории **examples**
